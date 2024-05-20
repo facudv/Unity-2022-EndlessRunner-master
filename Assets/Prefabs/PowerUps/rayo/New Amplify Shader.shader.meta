@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3993a6b63ab34a04d8e4995e06ec8c9b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _heightmapshieldStar: {fileID: 2800000, guid: df7ec1fb281cc1149b0876b431cd5280,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

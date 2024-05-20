@@ -1,0 +1,20 @@
+		//---Event Manager?--
+
+        //1-Tiene que estar subscrita esta clase y la del player a un EventManager, que ese eventManager
+        //sea el de instanciar mas prefabs. Estos prefabas salen por un RandomWheelSelection. 
+        
+        //---RandomWheelSelction?---
+
+
+        // El RandomWheelSelection no tiene que repetir; es decir, haceme un random de todas las 
+        // plataformas a instanciar, pero no debe ser repetida a la anterior.
+
+
+        //--- Es esto, o el Event Manager que mencione arriba?.
+
+        //0 -Como estado inicial deberia tener 3 plataformas instanciadas
+        //1- Si - el jugador a cierta "Posicion" , que se creen 3 tiles mas despues del ultimo actual.
+        //2- ?Como hago para que esa "Posicion" se vaya actualizando?.
+
+
+		//Platform Factory, van a ser diferentes tipos de gameObjects, a diferencia del pool de Bullets.

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0ea474a3f0721ec4f89ce12187210f9c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Scifi_Hex_Wall_Ambient_Occlusion: {fileID: 2800000, guid: f3f421e265c5e694eb0741df58c88fd3,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
